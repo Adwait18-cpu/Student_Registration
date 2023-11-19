@@ -1,0 +1,10 @@
+E:\.Net\project\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\StudentRegistrationSystem.exe.config
+E:\.Net\project\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\StudentRegistrationSystem.exe
+E:\.Net\project\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\StudentRegistrationSystem.pdb
+E:\.Net\project\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csproj.AssemblyReference.cache
+E:\.Net\project\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Form1.resources
+E:\.Net\project\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Properties.Resources.resources
+E:\.Net\project\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csproj.GenerateResource.cache
+E:\.Net\project\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csproj.CoreCompileInputs.cache
+E:\.Net\project\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.exe
+E:\.Net\project\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.pdb
